@@ -1,5 +1,5 @@
 # SDC-Projects Fall 2023
-Welcome to SDC Projects Fall 2023! Everything you need for working through Software Development Club Projects is right here in this repository!
+Welcome to SDC Projects Fall 2023! Everything you need for working through Software Development Club Projects is right here in this repository! If you have not been added to this organization, please contact one or both of the VPs of Engineering at abbharadwaj@wisc.edu or lcanderson4@wisc.edu.
 
 ### If you have not applied to be a part of the projects and are interested in doing so this semester, please [apply here](https://forms.gle/SjSmhZEZ3N18EkeZ9)!
 This form is due **Sunday 10/01, 11:59 p.m.** Forms submitted after this date may be considered if you reach out to a VP of Engineering.
@@ -36,7 +36,13 @@ Project Meetings (checked) are every other non-break week starting **9/24** besi
 We will discuss each of the parts of the timeline in more detail during our project meetings. Keep in mind, this timeline is only a guideline, and feel free to work at your own pace!
 
 ## Creating a Project
-
+Project Leaders:
+- Go to the Project-Template repository
+- Click on Use This Template/Create New Repository
+- Switch owner to SDC-Fall-2023
+- Name the Repository \<Project Level\>-Team-\<Project #\>, or for example "Beginner-Team-1"
+- Create the Repository
+- Go to Settings/Access/Collaborators and add the rest of your team members
 
 ## How To Be Successful
 * It is strongly recommend that you meet with your group weekly - find a time everyone can talk. This weekly meeting can include our in-person project meetings. This is most important in the beginning of the semester when a lot of design decisions are being made.
