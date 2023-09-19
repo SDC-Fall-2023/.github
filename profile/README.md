@@ -36,7 +36,7 @@ Project Meetings are every other non-break week starting **9/24** besides the pr
 We will discuss each of the parts of the timeline in more detail during our project meetings. Keep in mind, this timeline is only a guideline, and feel free to work at your own pace!
 
 ## Creating a Project
-Project Leaders:
+### Project Leaders:
 - Go to the Project-Template repository
 - Click on Use This Template/Create New Repository
 - Switch owner to SDC-Fall-2023
