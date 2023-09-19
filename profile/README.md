@@ -15,7 +15,7 @@ Groups will be done by request, shared interest, and skill level as much as poss
 Project meetings are every other Sunday at 5 p.m. unless we say otherwise. They will generally have two parts, the first part being the VPs of Engineering giving a briefing on how far along the project should be, and/or information that is relevant at the time. Information such as an example of how we would break a project into components to be done, or how to develop interfaces and plan out a project etc. The second part, is meeting with your group and having a bit of work time - this also serves as a great time to ask any questions you have or to bounce ideas off other groups.
 
 ## Timeline (Sundays)
-Project Meetings (checked) are every other non-break week starting **9/24** besides the presentation day
+Project Meetings are every other non-break week starting **9/24** besides the presentation day
 
 | Date | Benchmark | Details |
 |:---:|:--------:|:------------:|
