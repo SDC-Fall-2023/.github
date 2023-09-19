@@ -1,8 +1,8 @@
-# SDC-Projects
-Welcome to SDC Projects Spring 2022! Everything you need for working through Software Development Club Projects is right here in this repository!
+# SDC-Projects Fall 2023
+Welcome to SDC Projects Fall 2023! Everything you need for working through Software Development Club Projects is right here in this repository!
 
-### If you have not applied to be a part of the projects and are interested in doing so this semester, please [apply here!](https://docs.google.com/forms/d/e/1FAIpQLSdHp3OUOjJQKflBzvNSDok1TT48Dx6D74Z72c98wnwccZzl7Q/viewform?usp=sf_link)
-This form is due **Saturday 2/12, 11:59 p.m.** Forms submitted after this date may be considered if you reach out to a VP of Engineering.
+### If you have not applied to be a part of the projects and are interested in doing so this semester, please [apply here](https://forms.gle/SjSmhZEZ3N18EkeZ9)!
+This form is due **Sunday 10/01, 11:59 p.m.** Forms submitted after this date may be considered if you reach out to a VP of Engineering.
 
 ### Important Notes
 * All projects will utilize GitHub - go [make an account](https://github.com/login) if you do not have one. Why? Because the industry revolves around Git and GitHub, and it makes collaborating with your teammates substantially easier. You will need an account for later classes anyway, and for showcasing personal projects to employers. *GitHub also allows developers to host non-commercial websites for free using GitHub pages*
@@ -12,32 +12,28 @@ This form is due **Saturday 2/12, 11:59 p.m.** Forms submitted after this date m
 Groups will be done by request, shared interest, and skill level as much as possible. Extra information on the google form helps with that process.
 
 ### Project Meetings
-Project meetings are every other Sunday at 2 p.m. unless we say otherwise. They will generally have two parts, the first part being the VPs of Engineering giving a briefing on how far along the project should be, and/or information that is relevant at the time. Information such as an example of how we would break a project into components to be done, or how to develop interfaces and plan out a project etc. The second part, is meeting with your group and having a bit of work time - this also serves as a great time to ask any questions you have or to bounce ideas off other groups.
+Project meetings are every other Sunday at 5 p.m. unless we say otherwise. They will generally have two parts, the first part being the VPs of Engineering giving a briefing on how far along the project should be, and/or information that is relevant at the time. Information such as an example of how we would break a project into components to be done, or how to develop interfaces and plan out a project etc. The second part, is meeting with your group and having a bit of work time - this also serves as a great time to ask any questions you have or to bounce ideas off other groups.
 
 ## Timeline (Sundays)
-Project Meetings (checked) are every other non-break week starting **2/13** besides the presentation day
+Project Meetings (checked) are every other non-break week starting **9/24** besides the presentation day
 
-| Date | Meeting | Benchmark | Details |
-|:---:|:----------:|:--------:|:--------:|
-|2/13|| ~~First Meeting~~ Registration Ends, Group Assignment | Sign up for projects before today! |
-|2/20|X| First Meeting, Project Ideas & Components | Communication mode setup and some ideas formulated |
-|2/27|X| 20% done | Choose project, components / interfaces decided |
-|3/6|| 40% done | Implementing interfaces |
-|3/13|| Break |  |
-|3/20|| Break |  |
-|3/27|X| Check on Progress (60%) | Most of interface fleshed out |
-|4/3|| 80% done | Interface done |
-|4/10|X| Check on Progress (100%) | Should be done with core features. Highly recommend unit testing |
-|4/17|| Integration | Integrate all project components |
-|4/24|X| Buffer | |
-|5/4|X| Presentation!* | (was ~~5/1~~) Consider what a small demonstration would look like |
+| Date | Benchmark | Details |
+|:---:|:--------:|:------------:|
+|9/24| Project Meeting | Projects Introduction and Overview |
+|10/01| Registration Deadline | [Sign up](https://forms.gle/SjSmhZEZ3N18EkeZ9) |
+|10/08| Project Meeting | Groups Decided |
+|10/15| Choose Project Ideas | Select project ideas by latest 10/15 |
+|10/22| Project Meeting | Finalize components, core features, and interfaces |
+|11/05| Project Meeting | Most of interface fleshed out |
+|11/19| Project Meeting | Most core features finished |
+|12/3| Project Meeting | Done with core features, start to integrate - Highly recommend unit testing |
+|12/17| Final Project Meeting | Hopefully done with project, or close |
+|12/TBD| Presentation!* | Consider what a small demonstration would look like |
 
-\* *Informal presentation where you share what you did, how you did, and what you learned with the group. Completed projects will be written about and linked to our website as long as the group agrees to it, and there may be other fun stuff.*
+\* *Informal presentation where you share what you did, how you did, and what you learned with the group.*
 
 ### About the Timeline
-There are 9 weeks from start to the informal presentation. This has been split this into 2 weeks of planning, four weeks of development, an integration week, and two buffer weeks to be used as you wish. One of the buffer weeks is 4/24 - 5/1, since there are no expectations for the presentation.
-
-This timeline is only a guideline. It also accounts for no work getting done over Spring Break.
+We will discuss each of the parts of the timeline in more detail during our project meetings. Keep in mind, this timeline is only a guideline, and feel free to work at your own pace!
 
 ### Breaking down the time frame...
 
