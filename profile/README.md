@@ -27,7 +27,7 @@ Project Meetings (checked) are every other non-break week starting **9/24** besi
 |11/05| Project Meeting | Most of interface fleshed out |
 |11/19| Project Meeting | Most core features finished |
 |12/3| Project Meeting | Done with core features, start to integrate - Highly recommend unit testing |
-|12/17| Final Project Meeting | Hopefully done with project, or close |
+|12/10| Final Project Meeting | Hopefully done with project, or close |
 |12/TBD| Presentation!* | Consider what a small demonstration would look like |
 
 \* *Informal presentation where you share what you did, how you did, and what you learned with the group.*
@@ -35,21 +35,8 @@ Project Meetings (checked) are every other non-break week starting **9/24** besi
 ### About the Timeline
 We will discuss each of the parts of the timeline in more detail during our project meetings. Keep in mind, this timeline is only a guideline, and feel free to work at your own pace!
 
-### Breaking down the time frame...
-
-| Hrs/wk on project | Total dev<sup>1</sup> hrs. + buffer | Team of 4 dev hrs. |
-|:--------:|:--------:|:--------:|
-| 2 | 14 (18) | 56 (72) | 
-| 3 | 21 (27) | 84 (108) |
-| 4 | 28 (36) | 112 (144) |
-| 5 | 35 (45) | 140 (180) |
-| 6 | 42 (54) | 168 (216) |
-
-1. *Dev time is all time past the planning phase i.e. time spent actually creating the project.*
-*(Hours including break)*
-
 ## Creating a Project
-Check out the Project Template for general guidelines on the difficulty of a project you should take on. At the bottom of the Project Template are also ideas and examples of how to breakdown the project into components. The Project Template can be found in this repository. If you have an idea, but don't know how to break it up for your group, feel free to email a VP of Engineering to discuss or to schedule a chat. Alternatively go to the project meetings and ask one of the VP of Engineering there.
+
 
 ## How To Be Successful
 * It is strongly recommend that you meet with your group weekly - find a time everyone can talk. This weekly meeting can include our in-person project meetings. This is most important in the beginning of the semester when a lot of design decisions are being made.
@@ -57,24 +44,6 @@ Check out the Project Template for general guidelines on the difficulty of a pro
 * Make a schedule and stick to it as best as you can - it makes balancing class work, entertainment, and extracurricular activities a much better time.
 * Put in consistent work rather than putting it off and not getting to it.
 * Communicate! We are here to help you guys in any capacity we can.
-
-## Shortcomings Last Semester
-Projects are going to be similar to last year but we hope to address some challenges that occurred. These are primarily:
-* There was a lot of confusion with the random assignment of project leads as there were not enough applicants for the number of those interested in participating in projects
-* Project levels were vague, and so were deadlines about the project, leaving many groups in the dark about when they should be done with what.
-* There was no recognition for the work done on projects
-* Many dropped out of their project, leaving their group members in the cold for a few reasons:
-   * Some could not keep up with school work, project was not a priority
-   * Some were frustrated with the project and lack of organization
-   * Some simply showed up to the first meeting, applied to take part in a project, then realized they overcommited.
-
-## Addressing the Shortcomings
-We have attempted to address all of these issues (and of course if there were other issues, please let us know in the project form). 
-* We now have a more concrete definition of programming levels with approximate class breakdown (see form)
-* We are decreasing the randomness of leads by asking for those who are willing to take on the role
-* There is an end of semester project celebration / informal **no pressure** presentation to show off what you did
-* This page is made available after our first meeting through the discord
-* We have a project template with some ideas on what a project of appropriate difficulty will look like, and some example projects that you could complete if you don't have any ideas. 
 
 ## Parting Thoughts
 Projects are a chance to engage with your peers, learn how to work in a team, experience taking on responsibility and leadership, and work on your development skills. This makes these projects a fantastic opportunity for growth; however, they only provide as much as we put into them. In addition to that, they are extracurricular in nature, and everyone understands that classes can become overwhelming and take priority. If it is the case that you no longer wish to work on a project, please communicate with your point of contact that is the case.
