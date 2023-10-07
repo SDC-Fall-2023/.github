@@ -12,28 +12,27 @@ This form is due **Sunday 10/01, 11:59 p.m.** Forms submitted after this date ma
 Groups will be done by request, shared interest, and skill level as much as possible. Extra information on the google form helps with that process.
 
 ### Project Meetings
-Project meetings are every other Sunday at 5 p.m. unless we say otherwise. They will generally have two parts, the first part being the VPs of Engineering giving a briefing on how far along the project should be, and/or information that is relevant at the time. Information such as an example of how we would break a project into components to be done, or how to develop interfaces and plan out a project etc. The second part, is meeting with your group and having a bit of work time - this also serves as a great time to ask any questions you have or to bounce ideas off other groups.
+Project meetings are every other Sunday at 5 p.m. unless we say otherwise. During the meetings the VPs of Engineering will give a brief overview on how far along the project should be, and/or information that is relevant at the time.
 
 ## Timeline (Sundays)
 Project Meetings are every other non-break week starting **9/24** besides the presentation day
 
-| Date | Benchmark | Details |
-|:---:|:--------:|:------------:|
-|9/24| Project Meeting | Projects Introduction and Overview |
-|10/01| Registration Deadline | [Sign up](https://forms.gle/SjSmhZEZ3N18EkeZ9) |
-|10/08| Project Meeting | Groups Decided |
-|10/15| Choose Project Ideas | Select project ideas by latest 10/15 |
-|10/22| Project Meeting | Finalize components, core features, and interfaces |
-|11/05| Project Meeting | Most of interface fleshed out |
-|11/19| Project Meeting | Most core features finished |
-|12/3| Project Meeting | Done with core features, start to integrate - Highly recommend unit testing |
-|12/10| Final Project Meeting | Hopefully done with project, or close |
-|12/TBD| Presentation!* | Consider what a small demonstration would look like |
+| Date | Benchmark | Details | Slides |
+|:---:|:--------:|:------------:|:--------:|
+|9/24| Project Meeting | Projects Introduction and Overview | [Link](https://docs.google.com/presentation/d/1JY9TFbWv-Qk2txLDKeSVsx-NEPGvsz4gt_n7RyaAXzE/edit?usp=sharing)|
+|10/01| Registration Deadline | [Sign up](https://forms.gle/SjSmhZEZ3N18EkeZ9) | |
+|10/08| Project Meeting | Groups Decided | |
+|10/22| Project Meeting | Complete Project Plan by 10/22 | |
+|11/05| Project Meeting | TBD | |
+|11/19| Project Meeting | TBD | |
+|12/3| Project Meeting | TBD | |
+|12/10| Final Project Meeting | Hopefully done with project, or close | |
+|12/TBD| Presentation!* | Consider what a small demonstration would look like | |
 
 \* *Informal presentation where you share what you did, how you did, and what you learned with the group.*
 
 ### About the Timeline
-We will discuss each of the parts of the timeline in more detail during our project meetings. Keep in mind, this timeline is only a guideline, and feel free to work at your own pace!
+We will discuss each of the parts of the timeline in more detail during our project meetings. Keep in mind, the timeline is only a guideline, and feel free to work at your own pace!
 
 ## Creating a Project
 ### Project Leaders:
