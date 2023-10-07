@@ -17,6 +17,15 @@ Project meetings are every other Sunday at 5 p.m. unless we say otherwise. Durin
 ## Timeline (Sundays)
 Project Meetings are every other non-break week starting **9/24** besides the presentation day
 
+### By Next Meeting (10/8)
+- Select group leader: [Form](https://forms.gle/zuoJ7wKyQZUE7LPv6)
+- Create repository using project template repo
+- Familiarize yourself with using [git](https://www.theodinproject.com/lessons/foundations-setting-up-git)
+- Choose what your project is going to be and its core features
+- Sketch out your user interface using Figma or Canva
+- Start looking at any libraries or frameworks you would want to use
+
+
 | Date | Benchmark | Details | Slides |
 |:---:|:--------:|:------------:|:--------:|
 |9/24| Project Meeting | Projects Introduction and Overview | [Link](https://docs.google.com/presentation/d/1JY9TFbWv-Qk2txLDKeSVsx-NEPGvsz4gt_n7RyaAXzE/edit?usp=sharing)|
