@@ -39,7 +39,7 @@ We will discuss each of the parts of the timeline in more detail during our proj
 - Go to the Project-Template repository
 - Click on Use This Template/Create New Repository
 - Switch owner to SDC-Fall-2023
-- Name the Repository \<Project Level\>-Team-\<Project #\>, or for example "Beginner-Team-1"
+- Name the Repository Team-\<Group Number\>-\<Project Name\>, or for example "Team-1-WebsiteName"
 - Create the Repository
 - Go to Settings/Access/Collaborators and add the rest of your team members
 
