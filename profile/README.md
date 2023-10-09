@@ -1,15 +1,12 @@
 # SDC-Projects Fall 2023
 Welcome to SDC Projects Fall 2023! Everything you need for working through Software Development Club Projects is right here in this repository! If you have not been added to this organization, please contact one or both of the VPs of Engineering at abbharadwaj@wisc.edu or lcanderson4@wisc.edu.
 
-### If you have not applied to be a part of the projects and are interested in doing so this semester, please [apply here](https://forms.gle/SjSmhZEZ3N18EkeZ9)!
-This form is due **Sunday 10/01, 11:59 p.m.** Forms submitted after this date may be considered if you reach out to a VP of Engineering.
+### Groups: [see groups](https://docs.google.com/document/d/1X53zCXK9u6oz8FggcB4HC7gfh9w2_jy7DY97I7pKj7o/edit)
+If you still want to be part of a group, please reach out to members of the project groups directly, or contact a VP of Engineering.
 
 ### Important Notes
 * All projects will utilize GitHub - go [make an account](https://github.com/login) if you do not have one. Why? Because the industry revolves around Git and GitHub, and it makes collaborating with your teammates substantially easier. You will need an account for later classes anyway, and for showcasing personal projects to employers. *GitHub also allows developers to host non-commercial websites for free using GitHub pages*
 * You can request to work with other people - there is a box for it on the google form.
-
-### Group Selection
-Groups will be done by request, shared interest, and skill level as much as possible. Extra information on the google form helps with that process.
 
 ### Project Meetings
 Project meetings are every other Sunday at 5 p.m. unless we say otherwise. During the meetings the VPs of Engineering will give a brief overview on how far along the project should be, and/or information that is relevant at the time.
@@ -28,9 +25,9 @@ Project Meetings are every other non-break week starting **9/24** besides the pr
 
 | Date | Benchmark | Details | Slides |
 |:---:|:--------:|:------------:|:--------:|
-|9/24| Project Meeting | Projects Introduction and Overview | [Link](https://docs.google.com/presentation/d/1JY9TFbWv-Qk2txLDKeSVsx-NEPGvsz4gt_n7RyaAXzE/edit?usp=sharing)|
+|9/24| Project Meeting | Projects Introduction and Overview | [Slides](https://docs.google.com/presentation/d/1JY9TFbWv-Qk2txLDKeSVsx-NEPGvsz4gt_n7RyaAXzE/edit?usp=sharing)|
 |10/01| Registration Deadline | [Sign up](https://forms.gle/SjSmhZEZ3N18EkeZ9) | |
-|10/08| Project Meeting | Groups Decided | |
+|10/08| Project Meeting | Groups Decided | [Slides](https://docs.google.com/presentation/d/1lw4POQ2Hi-2dqBEYXggZpI5VjyPNea4mX-YMFaJ6StU/edit?usp=sharing) |
 |10/22| Project Meeting | Complete Project Plan by 10/22 | |
 |11/05| Project Meeting | TBD | |
 |11/19| Project Meeting | TBD | |
