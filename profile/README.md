@@ -33,7 +33,7 @@ Project Meetings are every other non-break week starting **9/24** besides the pr
 |11/19| Project Meeting | TBD | |
 |12/3| Project Meeting | TBD | |
 |12/10| Final Project Meeting | Hopefully done with project, or close | |
-|12/TBD| Presentation!* | Consider what a small demonstration would look like | |
+|12/13| Presentation!* | Consider what a small demonstration would look like | |
 
 \* *Informal presentation where you share what you did, how you did, and what you learned with the group.*
 
