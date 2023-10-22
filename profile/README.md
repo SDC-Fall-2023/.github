@@ -39,7 +39,7 @@ Project Meetings are every other non-break week starting **9/24** besides the pr
 We will discuss each of the parts of the timeline in more detail during our project meetings. Keep in mind, the timeline is only a guideline, and feel free to work at your own pace!
 
 ## Resources
-- Git: [GitHub Basics](https://www.theodinproject.com/lessons/foundations-setting-up-git)
+- Git: [GitHub Basics](https://www.theodinproject.com/lessons/foundations-introduction-to-git)
 
 ## Creating a Project
 ### Project Leaders:
