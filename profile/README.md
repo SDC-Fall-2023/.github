@@ -40,7 +40,23 @@ We will discuss each of the parts of the timeline in more detail during our proj
 
 ## Resources
 - Git: [GitHub Basics](https://www.theodinproject.com/lessons/foundations-introduction-to-git)
-
+- Web Development:
+  - [Basic HTML](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
+  - [Basic CSS](https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations)
+  - [React](https://www.theodinproject.com/paths/full-stack-javascript/courses/react)
+  - [Angular](https://www.w3schools.com/angular/default.asp)
+- Backend:
+  - [NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)
+  - [Django](https://www.geeksforgeeks.org/django-tutorial/)
+- Databases:
+  - [MongoDB](https://www.w3schools.com/mongodb/index.php)
+  - [MySQL](https://www.w3schools.com/MySQL/default.asp)
+- Chrome Extenstions:
+  - [Basics](https://www.freecodecamp.org/news/building-chrome-extension/#how-to-create-a-chrome-extension)
+  - [Good Development Tool(Plasmo)](https://www.plasmo.com/)
+- Mobile Development:
+  - [React Native](https://www.tutorialspoint.com/react_native/index.htm)
+  - [Swift](https://www.javatpoint.com/ios-development-using-swift)
 ## Creating a Project
 ### Project Leaders:
 - Go to the Project-Template repository
