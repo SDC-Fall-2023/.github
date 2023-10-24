@@ -45,9 +45,12 @@ We will discuss each of the parts of the timeline in more detail during our proj
   - [Basic CSS](https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations)
   - [React](https://www.theodinproject.com/paths/full-stack-javascript/courses/react)
   - [Angular](https://www.w3schools.com/angular/default.asp)
+  - [Choosing a framework (React vs Angular vs Vue)](https://www.browserstack.com/guide/angular-vs-react-vs-vue#:~:text=Some%20frameworks%20which%20have%20become,%2Dfledged%20front%2Dend%20framework.)
 - Backend:
-  - [NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)
-  - [Django](https://www.geeksforgeeks.org/django-tutorial/)
+  - [NodeJS (JavaScript)](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)
+  - [Django (Python)](https://www.geeksforgeeks.org/django-tutorial/)
+  - [Spring (Java)](https://spring.io/guides)
+  - [.NET (C#)](https://learn.microsoft.com/en-us/dotnet/framework/install/)
 - Databases:
   - [MongoDB](https://www.w3schools.com/mongodb/index.php)
   - [MySQL](https://www.w3schools.com/MySQL/default.asp)
