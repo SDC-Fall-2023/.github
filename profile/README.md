@@ -57,6 +57,8 @@ We will discuss each of the parts of the timeline in more detail during our proj
 - Mobile Development:
   - [React Native](https://www.tutorialspoint.com/react_native/index.htm)
   - [Swift](https://www.javatpoint.com/ios-development-using-swift)
+- Web Scraping:
+  - [Python tutorial](https://www.geeksforgeeks.org/python-web-scraping-tutorial/)
 ## Creating a Project
 ### Project Leaders:
 - Go to the Project-Template repository
