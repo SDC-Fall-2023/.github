@@ -62,6 +62,8 @@ We will discuss each of the parts of the timeline in more detail during our proj
   - [Swift](https://www.javatpoint.com/ios-development-using-swift)
 - Web Scraping:
   - [Python tutorial](https://www.geeksforgeeks.org/python-web-scraping-tutorial/)
+- API calls:
+  - [API Basics](https://generalassemb.ly/blog/using-apis-full-stack-web-development-app-creation/)
 ## Creating a Project
 ### Project Leaders:
 - Go to the Project-Template repository
