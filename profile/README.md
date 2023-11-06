@@ -15,10 +15,9 @@ Project meetings are every other Sunday at 5 p.m. unless we say otherwise. Durin
 Project Meetings are every other non-break week starting **9/24** besides the presentation day
 
 ### By Next Meeting (11/05)
-- Group Merge Request (if applicable): [Form](https://forms.gle/iQspoedeDF1eX1ka9)
-- Group Progress form (One per group): [Form](https://forms.gle/TL8njzcibCZg5ha67)
-- Finalize what technologies (frameworks and languages) your group will use
-- Start making progress towards completing the frontend and/or backend for your project
+- Group Progress form (One per group): [Form](https://forms.gle/FhHuSAkB3UrN4WoK7)
+- Start making progress towards setting up the API calls for your project (if applicable)
+- Continue working on your projects frontend and backend
 
 
 | Date | Benchmark | Details | Slides |
@@ -27,8 +26,8 @@ Project Meetings are every other non-break week starting **9/24** besides the pr
 |10/01| Registration Deadline | [Sign up](https://forms.gle/SjSmhZEZ3N18EkeZ9) | |
 |10/08| Project Meeting | Groups Decided | [Slides](https://docs.google.com/presentation/d/1lw4POQ2Hi-2dqBEYXggZpI5VjyPNea4mX-YMFaJ6StU/edit?usp=sharing) |
 |10/22| Project Meeting | Complete Project Plan by 10/22 | [Slides](https://docs.google.com/presentation/d/1dCzefsX2f_6gK6KBOrxbG_gg8_ASOyZGLYdr1WtTxbk/edit?usp=sharing) |
-|11/05| Project Meeting | Make progress towards creating a frontend and/or backend | |
-|11/19| Project Meeting | TBD | |
+|11/05| Project Meeting | Make progress towards creating a frontend and/or backend | [Slides](https://docs.google.com/presentation/d/1pEr9-2qK39OLfSHp7efgCJaGVeHRzqM6PDWaH2IIDpo/edit?usp=sharing) |
+|11/19| Project Meeting | Make progress towards setting up api calls between your front and backend | |
 |12/3| Project Meeting | TBD | |
 |12/10| Final Project Meeting | Hopefully done with project, or close | |
 |12/13| Presentation!* | Consider what a small demonstration would look like | |
